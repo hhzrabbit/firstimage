@@ -1,0 +1,3 @@
+pic = open("pic.ppm", "w")
+
+pic.close()
