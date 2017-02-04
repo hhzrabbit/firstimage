@@ -10,7 +10,7 @@ yres = 500
 
 # creates nCircles sets of concentric circles
 # each set centered at a random x and a random y
-# color of concentric circles greyscaled
+# color of concentric circles randomly selected
 
 # I personally like the way 3 looks
 # I'm leaving these here so it's easy to customize
