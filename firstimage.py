@@ -18,7 +18,8 @@ minAmtCircles = 3
 maxAmtCircles = 3
 
 nCircles = random.randint(minAmtCircles, maxAmtCircles)
-print nCircles
+#print nCircles
+
 centers = []
 colors = []
 
